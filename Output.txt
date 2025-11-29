@@ -1,0 +1,14 @@
+Based on the provided dataset, here are the answers to your questions:
+
+1. **Which region is using more & less Browse?**
+   - **More Browse:** The US region has the highest count for the Browse feature with 5,000,000.
+   - **Less Browse:** The IT region has the lowest count for the Browse feature with 200,000.
+
+2. **Which region is purchasing more and what is your insight into that?**
+   - **Purchasing More:** The US region has the highest count for the Purchase feature with 4,500,000.
+   - **Insight:** The high purchase count in the US suggests a strong consumer base and possibly a more developed market for the product or service being analyzed. This could indicate that marketing strategies, product availability, or consumer behavior in the US are more favorable compared to other regions. The significant difference in purchase counts between the US and other regions may also highlight potential opportunities for growth in markets like the UK, IT, DE, and APAC.
+
+3. **Which country uses Voice and Alpha Search on equal terms?**
+   - The UK region uses Voice Search (1,500,000) and Alpha Search (300,000) on relatively equal terms compared to other regions, but they are not equal. However, if we look for a country where the counts are closest, we can see that in the APAC region, Voice Search (430,000) and Alpha Search (32,000) are also not equal but are the closest in terms of usage compared to other regions. No country in the dataset has equal counts for both Voice and Alpha Search. 
+
+In summary, while no country uses Voice and Alpha Search on equal terms, the UK and APAC regions have the closest counts relative to each other.

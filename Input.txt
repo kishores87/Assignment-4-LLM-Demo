@@ -1,0 +1,43 @@
+# User TV Watch Pattern across multiple countries. 
+# Browse: Number of Browse sessions happened in one month
+# Recording: Number of TV Program Recordings
+# T9 Search: Number of T9 Search used to get to the content user want to watch
+# Voice Search: Number of Voice Commands issued to get to the content user want to watch
+# Alpha Search: Number of Alpha Search used to get to the content user want to watch
+# Purchase: Number of Transactions made like Rent, Buy or Pay Per View
+
+
+    {"id": "US", "feature": "Browse", "count": 5000000},
+    {"id": "US", "feature": "Recording", "count": 200000},
+    {"id": "US", "feature": "T9 Search", "count": 750000},
+    {"id": "US", "feature": "Voice Search", "count": 3000000},
+    {"id": "US", "feature": "Alpha Search", "count": 500000},  
+    {"id": "US", "feature": "Purchase", "count": 4500000},
+
+    {"id": "UK", "feature": "Browse", "count": 300000},
+    {"id": "UK", "feature": "Recording", "count": 1200000},
+    {"id": "UK", "feature": "T9 Search", "count": 200000},
+    {"id": "UK", "feature": "Voice Search", "count": 1500000},
+    {"id": "UK", "feature": "Alpha Search", "count": 300000},  
+    {"id": "UK", "feature": "Purchase", "count": 200000},
+
+    {"id": "IT", "feature": "Browse", "count": 200000},
+    {"id": "IT", "feature": "Recording", "count": 10000},
+    {"id": "IT", "feature": "T9 Search", "count": 7000},
+    {"id": "IT", "feature": "Voice Search", "count": 40000},
+    {"id": "IT", "feature": "Alpha Search", "count": 3000},  
+    {"id": "IT", "feature": "Purchase", "count": 4000},
+
+    {"id": "DE", "feature": "Browse", "count": 50000},
+    {"id": "DE", "feature": "Recording", "count": 1000},
+    {"id": "DE", "feature": "T9 Search", "count": 700},
+    {"id": "DE", "feature": "Voice Search", "count": 80000},
+    {"id": "DE", "feature": "Alpha Search", "count": 6000},  
+    {"id": "DE", "feature": "Purchase", "count": 4500},
+
+    {"id": "APAC", "feature": "Browse", "count": 50000},
+    {"id": "APAC", "feature": "Recording", "count": 1000},
+    {"id": "APAC", "feature": "T9 Search", "count": 7000},
+    {"id": "APAC", "feature": "Voice Search", "count": 430000},
+    {"id": "APAC", "feature": "Alpha Search", "count": 32000},  
+    {"id": "APAC", "feature": "Purchase", "count": 45000},
